@@ -1,6 +1,7 @@
 /* This file will handle all interactions with the page including creating and sending post requests */
 
 //TODO List (For Jason and LK)
+//
 /*
 * Make search bar work on the top (Make sure that if filters are on it deletes the ones that don't fit the filter also.)
  * Add event to the DOM when it is created.
